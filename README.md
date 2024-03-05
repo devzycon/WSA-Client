@@ -1,5 +1,5 @@
 # TCP/IP Client Application using WinSock API
-Server: https://github.com/devzycon/WSA-Server
+Server Application: https://github.com/devzycon/WSA-Server
 
 ## Overview
 This project implements a client application in C++ using the Windows Socket API (WinSock). It is designed to connect to a server listening on a specified port, send messages to the server, and receive acknowledgments from the server.
